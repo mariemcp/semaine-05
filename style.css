@@ -1,29 +1,23 @@
 body
 {
     background: url("images/crossword.png");
-    padding: 0;
-    margin:0;
-    color: white;
+    widht: 100%;
+    border: 5px black solid;
 }
-
 header
 {
     background: url("images/extra_clean_paper.png");
-   
     width: 100%;
+    border: 5px black solid;
 }
 
 footer
 {
     background: url("images/gplaypattern.png");
-    
     width: 100%;
+    border: 5px black solid;
 }
-main
-{
-    width: 90%;
-    margin: auto;
-}
+
 p 
 {
     text-align: justify;
@@ -36,8 +30,7 @@ p
 }
 .entete
 {
-    width: 30%
-    display: inline-block;
+    width: 30%;
     vertical-align: top;
    
 }
@@ -45,7 +38,7 @@ p
 {
     width: 20%;
     display: inline-block;
-    vertical-align: top;
+    vertical-align: left;
     
 }
 .colonne
