@@ -1,0 +1,42 @@
+header
+{
+    background-image: url("images/pink_rice.png");
+    background-repeat: no-repeat;
+    padding-top: 15px;
+}
+.entete
+{
+    width: 100px;
+    height:100px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}   
+
+h1, h2
+{
+    text-align: center;
+    float: right;
+}
+main
+{
+    background-image: url("images/crossword.png);
+    background-repeat: no-repeat;
+}
+.conteneur
+{
+    width: 100%;
+    max-width: 960px;
+    padding: 10px;
+    margin: 15px;
+}
+
+
+    
+    
+}
+footer
+{
+    background-image: url("images/concrete_seamless.png");
+    background-repeat: no-repeat;
+}
