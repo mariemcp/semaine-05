@@ -16,7 +16,7 @@ footer
 {
     font-family: "Garamond";
 }
-.conteneur
+#conteneur
 {
     width: 100%;
     max-width: 960px;
@@ -25,10 +25,9 @@ footer
 }
 #souris
 {
-     border-radius: 20px;
     width: 150px;
     height: 150px;
-    border-radius: 20px;
+    border-radius: 10;   
 }
 header, h1
 {
