@@ -41,8 +41,7 @@ p
 {
     width: 20%;
     display: inline-block;
-    vertical-align: left;
-    
+    float: left;
 }
 .colonne
 {
