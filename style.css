@@ -21,8 +21,8 @@ h1, h2
 {
     padding: 50%;
     text-align: center;
-    color: red;
-    max-width: 50;
+    color: gree;
+    min-width: 50%;
 }
 p 
 {
