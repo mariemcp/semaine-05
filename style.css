@@ -1,20 +1,21 @@
+*
+{
+    width: 100%;
+}
 body
 {
     background: url("images/crossword.png");
-    width: 100%;
     border: 5px black solid;
 }
 header
 {
     background: url("images/extra_clean_paper.png");
-    width: 100%;
     border: 5px black solid;
 }
 
 footer
 {
     background: url("images/gplaypattern.png");
-    width: 100%;
     border: 5px black solid;
 }
 h1, h2
