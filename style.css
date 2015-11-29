@@ -1,42 +1,32 @@
 header
 {
-    background-image: url("images/pink_rice.png");
+    background: url("images/pink_rice.png");
     background-repeat: no-repeat;
     padding-top: 15px;
 }
-.entete
+*
 {
-    width: 100px;
-    height:100px;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-}   
-
-h1, h2
-{
-    text-align: center;
-    float: right;
-}
-main
-{
-    background-image: url("images/crossword.png);
-    background-repeat: no-repeat;
+    font-family: "Garamond";
 }
 .conteneur
 {
     width: 100%;
     max-width: 960px;
-    padding: 10px;
     margin: 15px;
+    padding: 10px;
 }
-
-
-    
-    
-}
-footer
+#souris
 {
-    background-image: url("images/concrete_seamless.png");
-    background-repeat: no-repeat;
+    display: inline-block
+    margin-bottom: 0px;
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    float: left;
+    
+}
+header, h1
+{
+    color:red;
+    text-align: center;
 }
