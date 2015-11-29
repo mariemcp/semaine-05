@@ -40,7 +40,9 @@ p
 .image
 {
     width: 20%;
+    height: 20%;
     display: inline-block;
+    border-radius: 15px;
     float: left;
 }
 .colonne
