@@ -9,14 +9,14 @@ body
 header
 {
     background: url("images/extra_clean_paper.png");
-    padding: 10px;
+   
     width: 100%;
 }
 
 footer
 {
     background: url("images/gplaypattern.png");
-    padding: 10px;
+    
     width: 100%;
 }
 main
@@ -39,21 +39,20 @@ p
     width: 30%
     display: inline-block;
     vertical-align: top;
-    box-sizing: border-box;
+   
 }
 .image
 {
     width: 20%;
     display: inline-block;
     vertical-align: top;
-    box-sizing: border-box;
+    
 }
 .colonne
 {
     widht: 30%;
     display: inline-block;
     vertical-align: top;
-    box-sizing: border-box;
 }
 header, h1
 {
