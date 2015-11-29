@@ -19,9 +19,9 @@ footer
 }
 h1, h2
 {
-    padding: 50%;
+    margin: 50%;
     text-align: center;
-    color: green;
+    color: red;
 }
 p 
 {
