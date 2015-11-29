@@ -1,55 +1,53 @@
-*
-{
-    width: 100%;
-}
 body
 {
-    background: url("images/crossword.png");
-    border: 5px black solid;
+    background-image: url("images/crossword.png");
+    font-family: "Garamond";
+    padding: 0;
+    margin: 0;
 }
+
 header
 {
     background: url("images/extra_clean_paper.png");
-    border: 5px black solid;
+    text-align: center;
 }
 
+.parcours
+{
+    width: 33%;
+    height: 280px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing:border-box;
+    padding-left: 20px;
+    padding-right:20px;
+    line-height: 20px;
+    
+}
+
+.ambitions
+{
+    width: 33%;
+    height:280px;
+    display:inline-block;
+    box-sizing:border-box;
+    padding-left:20px;
+    padding-right:20px;
+    line-height:20px;
+}
+.experience
+{
+    width:33%;
+    height: 280px;
+    display: inline-block;
+    vertical-align: top;
+    box-sizing:border-box;
+    padding-left:20px;
+    padding-right: 20px;
+    line-height: 20px
+}
 footer
 {
     background: url("images/gplaypattern.png");
-    border: 5px black solid;
-}
-h1, h2
-{
     text-align: center;
-    color: green;
-}
-p 
-{
-    text-align: justify;
-}
-
-.conteneur
-{
-    margin: 15px;
-    padding: 10px;
-}
-.entete
-{
-    width: 30%;
-    vertical-align: top;
-   
-}
-.image
-{
-    width: 20%;
-    height: 20%;
-    display: inline-block;
-    border-radius: 15px;
-    float: left;
-}
-.colonne
-{
-    widht: 30%;
-    display: inline-block;
-    vertical-align: top;
 }
