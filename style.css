@@ -4,6 +4,14 @@ header
     background-repeat: no-repeat;
     padding-top: 15px;
 }
+main
+{
+    background: url("images/crossword.png");
+}
+footer
+{
+    background: url("images/concret_seamless.png");
+}
 *
 {
     font-family: "Garamond";
@@ -17,8 +25,7 @@ header
 }
 #souris
 {
-    display: inline-block
-    margin-bottom: 0px;
+     border-radius: 20px;
     width: 150px;
     height: 150px;
     border-radius: 20px;
