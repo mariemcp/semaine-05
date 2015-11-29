@@ -10,7 +10,10 @@ h1
 {
     font-size: 2em;
 }
-
+h2
+{
+    color: #CD853F;
+}
 
 header
 {
@@ -52,7 +55,7 @@ header
     box-sizing: border-box;
     padding-left: 20px;
     padding-right: 20px;
-    line-height:20px;
+    line-height: 20px;
     font-size: 12px;
 }
 footer
