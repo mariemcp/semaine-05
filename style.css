@@ -62,17 +62,18 @@ header
     line-height: 20px;
     font-size: 15px;
 }
-.iframe
-{
-    width: 50%;
-    vertical-align: middle;
-}
 .contacts
 {
     display: inline-block;
     margin-left: 30px;
     vertical-align: middle;
 }
+.iframe
+{
+    width: 50%;
+    vertical-align: middle;
+}
+
 footer
 {
     background: url("images/gplaypattern.png");
