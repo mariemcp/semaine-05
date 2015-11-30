@@ -67,6 +67,12 @@ header
     width: 50%;
     vertical-align: middle;
 }
+.contacts
+{
+    display: inline-block;
+    margin-left: 30px;
+    vertical-align: middle;
+}
 footer
 {
     background: url("images/gplaypattern.png");
